@@ -1,0 +1,32 @@
+{
+  "name": "rashad-proposal-os",
+  "displayName": "Rashad Proposal OS",
+  "version": "7.3.3",
+  "description": "Governed RFP-to-proposal operating system for Rubix Consulting. Ships the hash-locked 1692-file authority corpus, its preflight/attestation gates, and a runtime bridge that executes the corpus's own semantic-master, product-geometry, media-binding and delivery gates so output is reproducible across hosts.",
+  "author": {
+    "name": "Rubix Consulting"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "rfp",
+    "tender",
+    "proposal",
+    "bid-decision",
+    "procurement",
+    "etimad",
+    "arabic",
+    "rtl",
+    "consulting",
+    "presentation"
+  ],
+  "skills": "./skills/",
+  "commands": [
+    "./commands/rfp-summary.md"
+  ],
+  "metadata": {
+    "corpus_files": 1692,
+    "corpus_ledgers": "599/599 + 69/69",
+    "corpus_build": "SLIM_NESTED",
+    "bridge": "RASHAD_BRIDGE_EXECUTION_CERTIFICATE_V1"
+  }
+}

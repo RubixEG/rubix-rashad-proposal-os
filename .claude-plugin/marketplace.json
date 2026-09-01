@@ -1,0 +1,18 @@
+{
+  "name": "rubix-plugins",
+  "owner": {
+    "name": "Rubix Consulting",
+    "url": "https://github.com/REPLACE_WITH_YOUR_GITHUB_USERNAME/rubix-rashad-proposal-os"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "rashad-proposal-os",
+      "source": "rashad-proposal-os",
+      "version": "7.3.3",
+      "description": "Rubix Consulting's governed RFP-to-proposal OS: 24-role bid-decision dossiers, owner-locked proposals, Arabic-first RTL executive language law, and a runtime bridge that executes the corpus's own composition and QA gates instead of host-improvised equivalents."
+    }
+  ]
+}

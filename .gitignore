@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.rashad/
+.DS_Store
+.venv/
+out/
+*.log
