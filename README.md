@@ -6,7 +6,7 @@ Claude Code plugin.
 ## Install
 
 ```bash
-/plugin marketplace add YOUR_GITHUB_USERNAME/rubix-rashad-proposal-os
+/plugin marketplace add RubixEG/rubix-rashad-proposal-os
 /plugin install rashad-proposal-os@rubix-plugins
 ```
 
